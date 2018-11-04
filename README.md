@@ -1,1 +1,1 @@
-# PaaS
+# Private Catalog for PaaS
